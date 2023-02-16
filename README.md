@@ -67,6 +67,7 @@ List of GAME ID's in Uplay by Ubisoft
 1428 - Watch_Dogs Complete Edition  
 2688 - WATCH_DOGS® 2  
 3353 - Watch Dogs: Legion  
+7017 - Watch Dogs: Legion (Steam)
 3619 - WATCH_DOGS® 2 (Steam)  
 
 # Tom Clancy's Franchise
